@@ -1,1 +1,1 @@
-# LeetCode submits using LeetHub
+# LeetCode puzzles
